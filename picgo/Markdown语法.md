@@ -21,8 +21,8 @@
 [b站][1]是中国最大的同性交友网站。  
 [bilibili][]上有许多好看的动画。  
 
-[1]:http://www.bilibili.com "bilibili"  
-[bilibili]:http://www.bilibili.com "b站"  
+[1]:http://www.bilibili.com "bilibili"
+[bilibili]:http://www.bilibili.com "b站"
 <http://www.bilibili.com>  
 
 # 目录{#index}
@@ -55,8 +55,12 @@
 >
 > > 引用的嵌套(加上不同数量的>)
 
-玫瑰花:
-![玫瑰花](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimage-ali.bianjiyi.com%2F1%2F2018%2F0301%2F10%2F5a976486da30c.jpg&refer=http%3A%2F%2Fimage-ali.bianjiyi.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1612661480&t=65ee48cf07b46d923b12fbf1812ea65b "meiguihua")
+玫瑰花:  
+![玫瑰花](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimage-ali.bianjiyi.com%2F1%2F2018%2F0301%2F10%2F5a976486da30c.jpg&refer=http%3A%2F%2Fimage-ali.bianjiyi.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1612661480&t=65ee48cf07b46d923b12fbf1812ea65b "meiguihua")  
+
+怪盗基德:
+![怪盗基德](C:\Users\15786\Desktop\新建文件夹 (2)\pixiv\基德1.png)
+
 
 [TOC]
 
