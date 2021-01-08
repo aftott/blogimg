@@ -59,12 +59,12 @@
 ![玫瑰花](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimage-ali.bianjiyi.com%2F1%2F2018%2F0301%2F10%2F5a976486da30c.jpg&refer=http%3A%2F%2Fimage-ali.bianjiyi.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1612661480&t=65ee48cf07b46d923b12fbf1812ea65b "meiguihua")  
 
 怪盗基德:
-![怪盗基德](C:\Users\15786\Desktop\新建文件夹 (2)\pixiv\基德1.png)
+![基德1](https://raw.githubusercontent.com/aftott/blogimg/main/picgo/20210108174539.png)
 
 
 [TOC]
 
-注脚[^1]
+注脚[^1]![17104931_p0](https://raw.githubusercontent.com/aftott/blogimg/main/picgo/20210108174425.jpg)
 
 [^1]:注脚自动被搬运到最后面
 
