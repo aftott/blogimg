@@ -16,14 +16,14 @@
 ##### 五级标题
 ###### 六级标题
 
-欢迎来到[bilibili](http://www.bilibili.com)
-欢迎来到[bilibili](http://www.bilibili.com "bilibili")
-[b站][1]是中国最大的同性交友网站。
-[bilibili][]上有许多好看的动画。
+欢迎来到[bilibili](http://www.bilibili.com)  
+欢迎来到[bilibili](http://www.bilibili.com "bilibili")  
+[b站][1]是中国最大的同性交友网站。  
+[bilibili][]上有许多好看的动画。  
 
-[1]:http://www.bilibili.com "bilibili"
-[bilibili]:http://www.bilibili.com "b站"
-<http://www.bilibili.com>
+[1]:http://www.bilibili.com "bilibili"  
+[bilibili]:http://www.bilibili.com "b站"  
+<http://www.bilibili.com>  
 
 # 目录{#index}
 跳转到[目录](#index)
